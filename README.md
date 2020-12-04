@@ -2,6 +2,8 @@
 This is homework 1 for KU Bootcamp with the challenge of refactoring code to make a website more accessible. It is very important to make websites accessible for all users by following semantic flow and to help search engine optimization. 
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
+This project website can be viewed at the following URL: https://koltondecker.github.io/Code-Refactor/
+
 ## User Story
 
 ```
